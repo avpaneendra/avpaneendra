@@ -55,9 +55,9 @@ You can click the Preview link to take a look at your changes.
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 ### 🔊 Robotics & Interfaces
-![Voice Recognition](https://img.shields.io/badge/-Voice Recognition-orange?style=flat)
-![Speech Modules](https://img.shields.io/badge/-Audio Modules-yellow?style=flat)
-![Sensors](https://img.shields.io/badge/-Sensor Fusion-red?style=flat)
+<img src="https://img.shields.io/badge/-Voice Recognition-orange?style=flat)"></img>
+<img src="https://img.shields.io/badge/-Audio Modules-yellow?style=flat)></img>
+<img src="https://img.shields.io/badge/-Sensor Fusion-red?style=flat)"></img>
 
 
 
