@@ -87,9 +87,5 @@ You can click the Preview link to take a look at your changes.
 
 ## 📡 Live IoT Data
 
-### ❤️ ECG Signal
-![ECG](https://thingspeak.com/channels/3013937/charts/2?results=60&type=line&bgcolor=%23ffffff&color=%23d62020)
-
-
-
-
+### ❤️ ECG Signal### ❤️ ECG Signal
+![ECG](https://thingspeak.com/channels/3013937/charts/2?results=60&type=line)
