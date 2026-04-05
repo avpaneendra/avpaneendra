@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔊 Robotics & Interfaces
 <img src="https://img.shields.io/badge/-Voice Recognition-orange?style=flat)"></img>
 <img src="https://img.shields.io/badge/-Audio Modules-yellow?style=flat)></img>
-<img src="https://img.shields.io/badge/-Audio%20Modules-yellow?style=flat)"></img>
+<img src="https://img.shields.io/badge/-Audio%20Modules-yellow?style=flat"></img>
 
 
 
