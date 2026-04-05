@@ -20,13 +20,13 @@ You can click the Preview link to take a look at your changes.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi)
-![MQ Sensors]<img src="https://img.shields.io/badge/-MQ Sensors-green?style=flat)"></img>
+<img src="https://img.shields.io/badge/-MQ Sensors-green?style=flat)"></img>
 
 ![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=flat&logo=bluetooth)
 
 ### 🧠 AI / ML / Edge AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![TFLite](https://img.shields.io/badge/-TensorFlow Lite-FF6F00?style=flat)
+![TFLite](<img src="<img src="https://img.shields.io/badge/-TensorFlow Lite-FF6F00?style=flat)"></img>
 ![Scikit-learn](https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
