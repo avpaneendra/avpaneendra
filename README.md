@@ -71,3 +71,23 @@ You can click the Preview link to take a look at your changes.
 - IoT + ML Integration 🌐
 - EEG-based Emotion Detection 🧠
 - Smart Robotics 🤖
+
+
+## 📡 Live IoT Dashboard
+
+### 🌡️ Temperature
+![Temp](https://thingspeak.mathworks.com/channels/3063667/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
+
+### 💧 Humidity
+![Humidity](https://thingspeak.mathworks.com/channels/3063667/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
+
+# Health UI
+### 🌫️ IR Temp
+![IRTEMP](https://thingspeak.mathworks.com/channels/3013937/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
+
+### ECG
+![ECG](https://thingspeak.mathworks.com/channels/3013937/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
+
+
+
+
