@@ -8,4 +8,65 @@
 avpaneendra/avpaneendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-C++ C Java JavaScript Kotlin Python TypeScript Swift HTML5 CSS3 AWS Netlify Vercel Heroku Google Cloud Render   Anaconda Apache Kafka Apache Spark  Bootstrap Chart.js nVIDIA Django EJS Express.js FastAPI Flask Flutter Insomnia JWT NodeJS NPM OpenCV RabbitMQ React React Router Redux Snowflake Spring TailwindCSS Vue.js Vite Apache Apache Airflow Apache Tomcat Apache Maven Jenkins Nginx AmazonDynamoDB Firebase MariaDB MicrosoftSQLServer MongoDB MySQL Neo4J Postgres SQLite Supabase Keras Matplotlib NumPy Pandas Plotly scikit-learn TensorFlow Scipy GitHub Git Docker Confluence Kubernetes Jira Postman Prettier Power Bi
+## 🚀 Tech Stack
+
+### 👨‍💻 Programming & Core
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)
+
+### 🤖 Embedded & IoT
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
+![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi)
+![MQ Sensors](https://img.shields.io/badge/-MQ Sensors-green?style=flat)
+![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=flat&logo=bluetooth)
+
+### 🧠 AI / ML / Edge AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![TFLite](https://img.shields.io/badge/-TensorFlow Lite-FF6F00?style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![EEG Processing](https://img.shields.io/badge/-EEG Signal Processing-purple?style=flat)
+
+### 🌐 Backend & APIs
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+
+### 📊 Dashboard & UI
+![Tkinter](https://img.shields.io/badge/-Tkinter-blue?style=flat)
+![PyQt](https://img.shields.io/badge/-PyQt-green?style=flat)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat)
+
+### ☁️ Cloud & Data
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+### 🛠 Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+
+### 🔊 Robotics & Interfaces
+![Voice Recognition](https://img.shields.io/badge/-Voice Recognition-orange?style=flat)
+![Speech Modules](https://img.shields.io/badge/-Audio Modules-yellow?style=flat)
+![Sensors](https://img.shields.io/badge/-Sensor Fusion-red?style=flat)
+
+
+
+
+
+
+
+
+## 🧠 Current Focus
+- Edge AI for Healthcare 🏥
+- IoT + ML Integration 🌐
+- EEG-based Emotion Detection 🧠
+- Smart Robotics 🤖
