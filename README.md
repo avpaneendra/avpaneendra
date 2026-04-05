@@ -22,6 +22,11 @@ You can click the Preview link to take a look at your changes.
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi)
 <img src="https://img.shields.io/badge/-MQ Sensors-green?style=flat)"></img>
 
+![ThingSpeak](https://img.shields.io/badge/-ThingSpeak-FF6F00?style=flat)
+![Blynk](https://img.shields.io/badge/-Blynk-23C48E?style=flat)
+<img src="https://img.shields.io/badge/-Adafruit IO-000000?style=flat)"></img>
+<img src="https://img.shields.io/badge/-Arduino IoT Cloud-00979D?style=flat)"></img>
+
 ![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=flat&logo=bluetooth)
 
 ### 🧠 AI / ML / Edge AI
@@ -31,6 +36,9 @@ You can click the Preview link to take a look at your changes.
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 <img src="https://img.shields.io/badge/-EEG Signal Processing-purple?style=flat)"></img>
+
+<img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)"></img>
+<img src="https://img.shields.io/badge/-Google Colab-F9AB00?style=flat&logo=googlecolab)"></img>
 
 ### 🌐 Backend & APIs
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
@@ -57,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔊 Robotics & Interfaces
 <img src="https://img.shields.io/badge/-Voice Recognition-orange?style=flat)"></img>
 <img src="https://img.shields.io/badge/-Audio Modules-yellow?style=flat)"><img>
-<img src="img.shields.io/badge/-Audio%20Modules-yellow?style=flat"></img>
+<img src="https://img.shields.io/badge/-Audio%20Modules-yellow?style=flat)"></img>
 
 ## 🧠 Current Focus
 - Edge AI for Healthcare 🏥
