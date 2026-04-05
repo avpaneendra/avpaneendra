@@ -20,8 +20,7 @@ You can click the Preview link to take a look at your changes.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi)
-
-![MQSensors](https://img.shields.io/badge/-MQ Sensors-green?style=flat)
+https://img.shields.io/badge/-MQ Sensors-green?style=flat
 
 ![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=flat&logo=bluetooth)
 
